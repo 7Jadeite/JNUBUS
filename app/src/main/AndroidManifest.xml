@@ -21,7 +21,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBKioCrJuIgFBg9htJ5H9UkulxI_h9enbA" />
+            android:value="YOUR_GOOGLE_API_KEY" />
 
         <activity
             android:name="com.example.jnubus_19_06_02.SplashActivity"
